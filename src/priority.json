@@ -1,0 +1,6 @@
+[
+  { "name": "Priority: ⚪️ Low", "color": "#009800" },
+  { "name": "Priority: 🔵 Medium", "color": "#fbca04" },
+  { "name": "Priority: 🔴 High", "color": "#d73a4a" },
+  { "name": "Priority: 🚨 Critical", "color": "#e11d21" }
+]
