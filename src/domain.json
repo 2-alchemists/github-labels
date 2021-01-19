@@ -1,0 +1,10 @@
+[
+  { "name": "Domain: 🎛 Config", "color": "#b56edd" },
+  { "name": "Domain: 👩‍💻 Dev Experience", "color": "#18e295" },
+  { "name": "Domain: 📝 Documentation", "color": "#514fe2" },
+  { "name": "Domain: ⚡️ Performance", "color": "#f74fdb" },
+  { "name": "Domain: 🛡 Security", "color": "#0c58d3" },
+  { "name": "Domain: 🧪 Testing", "color": "#86f411" },
+  { "name": "Domain: 🛠 Tooling", "color": "#fbca04" },
+  { "name": "Domain: 🎨 User Experience", "color": "#f4cfb0" }
+]
