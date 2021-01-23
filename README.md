@@ -1,10 +1,10 @@
-# 2Alchemists Github Labels
+# 2Alchemists GitHub Labels
 
-> The way we set up Github labels for our projects at [2Alchemists](https://2alchemists.com).
+> The way we set up GitHub labels for our projects at [2Alchemists](https://2alchemists.com).
 
 ## Purpose
 
-The default Github labels may be fine for some projects, but we think they can be greatly improved by adding our own labels.
+The default GitHub labels may be fine for some projects, but we think they can be greatly improved by adding our own labels.
 
 Dave Lunny has written a great [article](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63) about a sane labelling scheme, and this repository takes up most of the ideas in the article, adapting them to our way of working and organizing.
 
@@ -56,3 +56,9 @@ To apply the labels on a specific repository `user/repo`, type the following com
 ```sh
 $ ls src/*.json | xargs -I{} labels -c {} -f user/repo
 ```
+
+## Related
+
+- [GitHub API - Labels](https://developer.github.com/v3/issues/labels)
+- [popomore/github-labels - Add GitHub labels automatically](https://github.com/popomore/github-labels)
+- [Sane GitHub Labels – Dave Lunny – Medium](https://medium.com/@dave_lunny/sane-github-labels-c5d2e6004b63)
