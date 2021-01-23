@@ -48,3 +48,8 @@ To apply the labels on a specific repository `user/repo`, type the following com
 ```sh
 $ ls src/*.json | xargs -I{} labels -c {} -f user/repo
 ```
+
+## Related
+- [Github API - Labels](https://developer.github.com/v3/issues/labels)
+- [popomore/github-labels - Add github labels automatically](https://github.com/popomore/github-labels)
+- [Sane GitHub Labels – Dave Lunny – Medium](https://medium.com/{{ "@" }}dave_lunny/sane-github-labels-c5d2e6004b63)
