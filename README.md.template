@@ -1,8 +1,12 @@
 {{- /* README.md template - generated using https://coveooss.github.io/gotemplate/ */ -}}
+[![CC-BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](LICENSE.md)
 
 # 2Alchemists GitHub Labels
 
 > The way we set up GitHub labels for our projects at [2Alchemists](https://2alchemists.com).
+
+This project is open sourced under the terms of the Creative Commons Attribution 4.0 International Public License (also known as CC-BY). See the [LICENSE](LICENSE.md) file for more details.
+
 
 ## Purpose
 
