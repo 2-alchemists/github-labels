@@ -1,4 +1,4 @@
-[![CC-BY-NC-SA](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](LICENSE.md)
+[![CC-BY-NC-SA](https://licensebuttons.net/l/by/3.0/88x31.png)](LICENSE.md)
 
 # 2Alchemists GitHub Labels
 
